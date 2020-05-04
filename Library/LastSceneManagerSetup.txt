@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/BlockBall Template/Scenes/Game.unity
+  isLoaded: 1
+  isActive: 1
